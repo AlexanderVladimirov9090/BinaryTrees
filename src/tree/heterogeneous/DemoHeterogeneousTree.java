@@ -25,6 +25,9 @@ public class DemoHeterogeneousTree {
         System.out.println("Find the dog");
         System.out.println(hTree.findNode(98));
         System.out.println("Find the dog");
-        System.out.println(hTree.findNode(99));
+        System.out.println(hTree.findNode(98));
+        System.out.println("Find the dog");
+        System.out.println(hTree.findNode(98));
+
     }
 }
