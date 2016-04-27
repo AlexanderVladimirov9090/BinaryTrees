@@ -22,9 +22,16 @@ public class DemoHeterogeneousTree {
         System.out.println("Traverse tree by order");
         hTree.traverse();
 
+        System.out.println("Traverse tree by order");
+        hTree.traverse();
+
         System.out.println("Find the dog");
         System.out.println(hTree.findNode(98));
         System.out.println("Find the dog");
+
+        System.out.println(hTree.findNode(98));
+        System.out.println("Find the dog");
+        System.out.println(hTree.findNode(98));
 
         System.out.println(hTree.findNode(98));
         System.out.println("Find the dog");
