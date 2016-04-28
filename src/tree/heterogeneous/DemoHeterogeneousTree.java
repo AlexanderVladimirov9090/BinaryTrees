@@ -8,7 +8,7 @@ public class DemoHeterogeneousTree {
         Cat persian = new Cat();
         Dog bulldog  = new Dog();
         Developer javaDev = new Developer();
-
+        Developer phpDev = new Developer();
 
 
 
@@ -19,6 +19,7 @@ public class DemoHeterogeneousTree {
         hTree.add(98,bulldog);
         hTree.add(97,javaDev);
         hTree.add(99,persian);
+        hTree.add(100,phpDev);
         System.out.println("Traverse tree by order");
         hTree.traverse();
 
