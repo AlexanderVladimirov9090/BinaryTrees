@@ -5,6 +5,7 @@
 
 #out dir
 .out
+
 # Package Files #
 *.jar
 *.war
