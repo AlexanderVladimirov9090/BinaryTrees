@@ -2,7 +2,7 @@
 .idea
 
 #out dircetory
-out/
+out
 
 #lib files
 .jar
