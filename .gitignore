@@ -1,0 +1,11 @@
+#Idea dir 
+.idea
+
+#out dir
+out/
+
+#iml files
+.iml
+
+#external libraries
+.jar
