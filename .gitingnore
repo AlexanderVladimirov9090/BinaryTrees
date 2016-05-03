@@ -1,0 +1,10 @@
+#idea files
+.idea
+
+#out dircetory
+out/
+
+#lib files
+.jar
+#iml files
+.iml
