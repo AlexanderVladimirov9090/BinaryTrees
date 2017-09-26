@@ -1,13 +1,15 @@
-package tree.homogeneous;
+package com.gmail.alexander.vladimirov9090.tree.homogeneous;
 
 /**
- * Created by clouway on 21.04.16.
+ * Created on 21.04.16.
+ * @author Alexander Vladimirov
+ *         <alexandervladimirov1902@gmail.com>
  */
 public class HomogeneousTree {
    private Node root;
 
     /**
-     * Adding nodes in homogeneous tree
+     * Adding nodes in homogeneous com.gmail.alexander.vladimirov9090.tree
      * @param key
      */
     public void add(int key) {
@@ -44,7 +46,7 @@ public class HomogeneousTree {
     }
 
     /**
-     * Traversing tree casting orderedTraverse
+     * Traversing com.gmail.alexander.vladimirov9090.tree casting orderedTraverse
      */
     public void traverse(){
         orderedTraverse(root);
@@ -74,7 +76,7 @@ public class HomogeneousTree {
     }
 
     /**
-     * Traversing tree by order
+     * Traversing com.gmail.alexander.vladimirov9090.tree by order
      * @param focusNode user for traversing
      */
     private void orderedTraverse(Node focusNode){

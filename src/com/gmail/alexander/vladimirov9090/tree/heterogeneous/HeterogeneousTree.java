@@ -1,13 +1,15 @@
-package tree.heterogeneous;
+package com.gmail.alexander.vladimirov9090.tree.heterogeneous;
 
 
 /**
- * Created by clouway on 25.04.16.
+ * Created on 25.04.16.
+ * @author Alexander Vladimirov
+ *         <alexandervladimirov1902@gmail.com>
  */
 public class HeterogeneousTree {
     private Node root;
     /**
-     * Adding nodes in heterogeneous tree
+     * Adding nodes in heterogeneous com.gmail.alexander.vladimirov9090.tree
      * @param key
      */
     public void add(int key, Object object) {
@@ -45,7 +47,7 @@ public class HeterogeneousTree {
     }
 
     /**
-     * Traversing tree
+     * Traversing com.gmail.alexander.vladimirov9090.tree
      */
     public void traverse(){
         orderedTraverse(root);

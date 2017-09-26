@@ -1,7 +1,9 @@
-package tree.homogeneous;
+package com.gmail.alexander.vladimirov9090.tree.homogeneous;
 
 /**
- * Created by clouway on 21.04.16.
+ * Created on 21.04.16.
+ * @author Alexander Vladimirov
+ *         <alexandervladimirov1902@gmail.com>
  */
 public class Node {
     int key;

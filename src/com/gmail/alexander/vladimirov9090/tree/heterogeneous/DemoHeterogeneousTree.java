@@ -1,7 +1,9 @@
-package tree.heterogeneous;
+package com.gmail.alexander.vladimirov9090.tree.heterogeneous;
 
 /**
- * Created by clouway on 25.04.16.
+ * Created on 25.04.16.
+ * @author Alexander Vladimirov
+ *         <alexandervladimirov1902@gmail.com>
  */
 public class DemoHeterogeneousTree {
     public static void main(String[] args) {
@@ -19,7 +21,7 @@ public class DemoHeterogeneousTree {
         hTree.add(98,bulldog);
         hTree.add(97,javaDev);
         hTree.add(99,persian);
-        System.out.println("Traverse tree by order");
+        System.out.println("Traverse com.gmail.alexander.vladimirov9090.tree by order");
         hTree.traverse();
 
         System.out.println("Find the dog");

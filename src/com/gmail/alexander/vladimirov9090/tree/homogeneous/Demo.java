@@ -1,7 +1,9 @@
-package tree.homogeneous;
+package com.gmail.alexander.vladimirov9090.tree.homogeneous;
 
 /**
- * Created by clouway on 21.04.16.
+ * Created on 21.04.16.
+ * @author Alexander Vladimirov
+ *         <alexandervladimirov1902@gmail.com>
  */
 public class Demo {
     public static void main(String[] args) {
@@ -17,9 +19,9 @@ public class Demo {
         hTree.add(1000);
         hTree.add(1000);
 
-        System.out.println("Ordered Traversing a tree");
+        System.out.println("Ordered Traversing a com.gmail.alexander.vladimirov9090.tree");
         hTree.traverse();
-        System.out.println("\nPre-Ordered Traversing a tree");
+        System.out.println("\nPre-Ordered Traversing a com.gmail.alexander.vladimirov9090.tree");
 
         System.out.println();
         System.out.println(hTree.findNode(60));
